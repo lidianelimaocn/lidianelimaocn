@@ -33,5 +33,13 @@
   ![Snake animation](https://github.com/lidianelimaocn/lidianelimaocn/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 8.98 %
+
+---
+
+⏰ Updated on Wed, 02 Feb 2022 18:12:48 GMT
+
+![Progress Bar CI](https://github.com/lidianelimaocn/lidianelimaocn/workflows/Progress%20Bar%20CI/badge.svg)
 
 -->
