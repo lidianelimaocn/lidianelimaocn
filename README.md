@@ -1,4 +1,4 @@
-### Oie! Sou Lidiane Lima 👋
+### Oie! Sou Lidiane Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 💧 Realizo pesquisas em pós-doutorado na Área de Engenharia Costeira do Programa de Engenharia Oceânica da COPPE/UFRJ; e exerço a função de hidróloga no Centro Estadual de Monitoramento e Alerta de Desastres Naturais, CEMADEN-RJ|GridLab.
 - 🌊 Sou *oceanógrafa*, M.Sc. e D.Sc. em *Engenharia Oceânica*.
@@ -9,6 +9,9 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=lidianelimaocn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lidianelimaocn&layout=compact&langs_count=7&theme=radical"/>
 </div>
+  
+  
+  **Linguagens e ferramentas:**  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lid-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
