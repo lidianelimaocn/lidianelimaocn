@@ -2,7 +2,7 @@ name: Progress Bar CI
 
 on:
   workflow_dispatch:
-  schedule:
+  schedule: 
     - cron: '0 */6 * * *'
 
 jobs:
