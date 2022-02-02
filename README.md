@@ -11,9 +11,9 @@
 </div>
   
   
-  **Linguagens e ferramentas:**  
-  
+ 
 <div style="display: inline_block"><br>
+  Linguagens e ferramentas:
   <img align="center" alt="Lid-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="Lidi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   
@@ -23,10 +23,12 @@
   
  
 <div> 
-
+  Onde me encontrar: 
+  <a href="https://github.com/lidianelimaocn" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://instagram.com/lidianelima.ocn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lidianelima.ocn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lidianelimadsc" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
  
   ![Snake animation](https://github.com/lidianelimaocn/lidianelimaocn/blob/output/github-contribution-grid-snake.svg)
  
