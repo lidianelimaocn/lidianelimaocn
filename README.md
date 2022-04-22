@@ -2,7 +2,7 @@
 
 - 💧 Realizo pesquisas em pós-doutorado na Área de Engenharia Costeira do Programa de Engenharia Oceânica da COPPE/UFRJ; e exerço a função de hidróloga no Centro Estadual de Monitoramento e Alerta de Desastres Naturais, CEMADEN-RJ|GridLab.
 - 🌊 Sou *oceanógrafa*, M.Sc. e D.Sc. em *Engenharia Oceânica*.
-- 💻 Atualmente estudo *ciência de dados*.
+- 💻 Atualmente curso especialização em *Ciência de Dados* na UFRJ.
 
 <div align="center">
   <a href="https://github.com/lidianelimaocn">
