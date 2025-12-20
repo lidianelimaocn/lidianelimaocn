@@ -1,6 +1,6 @@
 ### Oie! Sou Lidiane Lima ![HiWaveGIF](https://user-images.githubusercontent.com/75381267/174207821-272720b4-76eb-4318-8969-677b600632af.gif)
 
-- 💧 Realizo pesquisas em pós-doutorado na Área de Engenharia Costeira do Programa de Engenharia Oceânica da COPPE/UFRJ; e exerço a função de hidróloga no Centro Estadual de Monitoramento e Alerta de Desastres Naturais, CEMADEN-RJ | GridLab.
+- 💧 Realizo pesquisas em pós-doutorado na Área de Engenharia Costeira do Programa de Engenharia Oceânica da COPPE/UFRJ.
 - 🌊 Sou *oceanógrafa*, M.Sc. e D.Sc. em *Engenharia Oceânica*.
 - 💻 Atualmente curso especialização em *Ciência de Dados* na UFRJ.
 
